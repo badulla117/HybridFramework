@@ -1,0 +1,12 @@
+02/07/2023 11:23:59 AM: selenium.webdriver.common.selenium_manager: INFO: selenium_manager: driver_location: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+02/07/2023 11:24:02 AM: root: INFO: test_AddCustomer: test_AddCustomer: ************* Test_003_AddCustomer **************
+02/07/2023 11:24:10 AM: root: INFO: test_AddCustomer: test_AddCustomer: *********** Login Successfull **********
+02/07/2023 11:24:10 AM: root: INFO: test_AddCustomer: test_AddCustomer: *********** Started Add Customer Test... **************
+02/07/2023 11:24:14 AM: root: INFO: test_AddCustomer: test_AddCustomer: *************** Providing Customer Information.. *************
+02/07/2023 11:24:18 AM: root: INFO: test_AddCustomer: test_AddCustomer: *********** Saving Customer Information ************
+02/07/2023 11:24:18 AM: root: INFO: test_AddCustomer: test_AddCustomer: *********** Add Customer Validation Started... *************
+02/07/2023 11:24:18 AM: root: INFO: test_AddCustomer: test_AddCustomer: ********** Add Customer Test Passed.... **********
+02/07/2023 11:24:18 AM: root: INFO: test_AddCustomer: test_AddCustomer: ******** Ending Test_003_AddCustomer Test ***********
+02/07/2023 11:24:19 AM: selenium.webdriver.common.selenium_manager: INFO: selenium_manager: driver_location: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+02/07/2023 11:24:21 AM: root: INFO: test_Login: test_Login: *************** Verifying Login Test ***************
+02/07/2023 11:24:27 AM: root: INFO: test_Login: test_Login: *************** Login Page Title Test is Passed... ***************
