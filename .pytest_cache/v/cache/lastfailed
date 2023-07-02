@@ -1,0 +1,6 @@
+{
+  "Lib/site-packages/trio/tests/test_dtls.py": true,
+  "Lib/site-packages/trio/tests/test_highlevel_ssl_helpers.py": true,
+  "Lib/site-packages/trio/tests/test_ssl.py": true,
+  "Lib/site-packages/trio/tests/tools/test_gen_exports.py": true
+}
